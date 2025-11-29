@@ -1,0 +1,4 @@
+.env
+.csv
+Data/ventas.csv
+Data/fact_ventas.csv
